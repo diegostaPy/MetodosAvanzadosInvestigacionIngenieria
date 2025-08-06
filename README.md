@@ -7,6 +7,7 @@ Bienvenido al repositorio oficial de materiales del curso **"Formación Investig
 ## 📦 Estructura del Repositorio
 
 ```plaintext
+├── LineasTematicas
 ├── Unidad1_Contextualizacion_CyT/
 │   ├── Presentacion_Unidad1.pptx
 │   ├── Lecturas/
